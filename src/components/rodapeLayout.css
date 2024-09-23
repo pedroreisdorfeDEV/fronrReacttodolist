@@ -1,0 +1,21 @@
+.rodape {
+    background-color: #1C1637;
+    color: white;
+    text-align: center;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    position: static;
+    bottom: 0;
+    width: 100%;
+    border-top: 1px solid #3BD4DD;
+  }
+  
+  .containerRodape {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .rodape p {
+    margin: 5px 0;
+  }
+  
